@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+backend/venv/
+
+# Django
+*.log
+local_settings.py
+
+# Node
+node_modules/
